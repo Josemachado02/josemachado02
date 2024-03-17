@@ -1,6 +1,6 @@
 ## Olá! Eu sou o José Walter!
 
-- 🔭 Sou programador trainee
+- 🔭 Sou programador Junior
 <div align="center">
   <a href="https://github.com/josemachado02">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=josemachado02&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
