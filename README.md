@@ -1,6 +1,10 @@
-## Olá! Eu sou o José Walter!
+##
+<div align="center">
+  <h1> Olá! Eu sou o José Walter!</h1>
+  <p>- 🔭 Sou Desenvolvedor de software</p>
+</div>
 
-- 🔭 Sou Desenvolvedor de software
+##
 <div align="center">
   <a href="https://github.com/josemachado02">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josemachado02&show_icons=true&theme=merko&include_all_commits=true&count_private=true&cache_seconds=1800"/>
@@ -23,10 +27,6 @@
 </div>
 
 ##
-
-<div align="center">
-  <img src="https://github.com/josemachado02/josemachado02/blob/output/github-contribution-grid-snake.svg" />
-</div>
 
 
 
